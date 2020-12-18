@@ -9,5 +9,5 @@ redirect_from:
 
 
 
-{% include base_path %}
-https://willding123.github.io/files/CV.pdf
+[Click to View My Curriculum Vitae \[PDF\]](https://willding123.github.io/files/CV.pdf)
+
