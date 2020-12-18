@@ -10,8 +10,6 @@ location: "Atlanta, Ga"
 
 
 2020 Emory DataFest - Introduction to Exploratory Analysis
-======
 
 2020 Emory Data Science Club - weekly workshop 
-======
 
