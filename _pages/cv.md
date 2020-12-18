@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://willding123.github.io/files/CV.pdf
+permalink: /cv/ 
 author_profile: true
 redirect_from:
   - /resume
@@ -10,3 +10,4 @@ redirect_from:
 
 
 {% include base_path %}
+https://willding123.github.io/files/CV.pdf
