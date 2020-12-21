@@ -10,7 +10,7 @@ redirect_from:
 
 
 ### Research Interests 
-Scientific Computing, Numerical Analysis, Machine Learning, Optimization, and Inverse problems 
+Scientific Computing, Numerical Analysis, Machine Learning, Optimization, and Inverse Problems 
 
 ### About Me
 I am a undergraduate student double majoring in Applied Math & Statistics and in Computer Science at Emory University. I am currently working on my honors thesis with [Dr. James Nagy](http://www.mathcs.emory.edu/~nagy/) in the [Emory Scientific Computing Group](http://www.mathcs.emory.edu/Research/Area/ScientificComputing/). It's a nonlinear least square problem arising from medical imaging applications. I was a data science [research fellow](http://www.quantitative.emory.edu/about/fellows/index.html#collapse3) working on an interdisciplinary research topic in political science and data science with [Dr. Holli Semetko](http://polisci.emory.edu/home/people/biography/semetko-holli.html) in my junior year in the Department of Quantitative Theory and Methods. The data science part mostly involved [web-scraping](https://github.com/willding123/SinaWeiboScraper) and unsupervised learning. 
